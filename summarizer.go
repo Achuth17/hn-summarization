@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"hn-exploration/gemini"
-	"hn-exploration/hn"
-	"hn-exploration/prompts"
+	"hn-summarization/gemini"
+	"hn-summarization/hn"
+	"hn-summarization/prompts"
 )
 
 func main() {

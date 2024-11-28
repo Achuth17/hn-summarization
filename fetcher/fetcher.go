@@ -2,8 +2,8 @@ package fetcher
 
 import (
 	"fmt"
-	"hn-exploration/gemini"
-	"hn-exploration/prompts"
+	"hn-summarization/gemini"
+	"hn-summarization/prompts"
 	"io"
 	"net/http"
 )

@@ -3,7 +3,7 @@ package hn
 import (
 	"context"
 	"fmt"
-	"hn-exploration/fetcher"
+	"hn-summarization/fetcher"
 	"strings"
 
 	"github.com/alexferrari88/gohn/pkg/gohn"

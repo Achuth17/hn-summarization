@@ -1,4 +1,4 @@
-module hn-exploration
+module hn-summarization
 
 go 1.23.3
 
