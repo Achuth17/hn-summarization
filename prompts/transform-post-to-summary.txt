@@ -1,0 +1,24 @@
+
+## Prompt messages are preceeded by ##
+
+## The post below is the contents of a web page followed by the discussions in the comments section about the post.
+
+## Give the title of the post with the author, Summarize the post and then summarize the discussion as bullet points in the following format:
+
+## {Title of the post}
+
+## {Summary of the post}
+
+## {Summary of the discussion}
+
+
+## Post Text:
+
+
+{@post-content}
+
+
+## Discussion Text in the following format: "userid: comment text"
+
+
+{@post-top-comments}

@@ -1,0 +1,7 @@
+From the HTML provided below, extract only the human-readable text content.
+First output the text found within the <title> tag, and then output core content of the remaining text found inside the <body> tags.
+Ignore any content found in the header or footer of the page.
+Ignore any HTML tags, attributes, scripts, or style information. Ensure the output is plain text.
+
+
+{@post-html-content}
